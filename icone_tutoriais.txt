@@ -1,0 +1,4 @@
+criar arquivo icone.rc >
+IDI_ICON1 ICON "NOME.ico"
+
+windres icone.rc -o coff -o nome.o

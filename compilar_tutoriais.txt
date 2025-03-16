@@ -1,0 +1,2 @@
+Compilar
+gcc src/*.c iconPrograma.o include/pbPlots.c include/pbPlots.h include/supportLib.c include/supportLib.h -o hortifruti.exe -lwinmm
